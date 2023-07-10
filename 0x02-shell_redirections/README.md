@@ -1,0 +1,1 @@
+This repository explores shell redirections in a Linux environment.
